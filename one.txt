@@ -1,5 +1,4 @@
 hai this is sample repo file
 this is first file in this repo
 
-this is second change by online editor
-after stash, I added this line.
+this is one commit.
