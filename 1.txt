@@ -1,9 +1,3 @@
 hai this is sample repo file
 this is first file in this repo
 
-this is one commit.
-some extra.
-again extra.
-
-
-added content
